@@ -7,7 +7,7 @@ Purpose of this project was to analyze stock performance for 12 stock tickers an
 ## Results
 In 2017, all stock tickers had a positive return except for TERP.
 
-![Stock_Analysis_2017](/Users/xanderbilt/Documents/WashU_Bootcamp/week_two/Resources/Stock_Analysis%202017.png) 
+![Stock_Analysis_2017](https://github.com/xanderbilt23/stock-analysis/blob/main/Resources/Stock_Analysis%202017.png) 
 
 in 2018, most stock tickers had a negative return except for ENPH & RUN.
 
