@@ -12,23 +12,23 @@ In 2017, all stock tickers had a positive return except for TERP.
 in 2018, most stock tickers had a negative return except for ENPH & RUN.
 
 
-![Stock_Analysis_2018](/Users/xanderbilt/Documents/WashU_Bootcamp/week_two/Resources/Stock_Analysis_2018.png)
+![Stock_Analysis_2018](https://github.com/xanderbilt23/stock-analysis/blob/main/Resources/Stock_Analysis_2018.png)
 
 
-![VBA_Challenge_2017_original](/Users/xanderbilt/Documents/WashU_Bootcamp/week_two/Resources/VBA_Challenge_2017_original.png)
+![VBA_Challenge_2017_original](https://github.com/xanderbilt23/stock-analysis/blob/main/Resources/VBA_Challenge_2017_original.png)
 
 
 (run time for original code for 2017)
 
-![VBA_Challenge_2017](/Users/xanderbilt/Documents/WashU_Bootcamp/week_two/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://github.com/xanderbilt23/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 (run time for refactored code for 2017)
 
-![VBA_Challenge_2018_original](/Users/xanderbilt/Documents/WashU_Bootcamp/week_two/Resources/VBA_Challenge_2018_original.png)
+![VBA_Challenge_2018_original](https://github.com/xanderbilt23/stock-analysis/blob/main/Resources/VBA_Challenge_2018_original.png)
 
 (run time for original code for 2017)
 
-![VBA_Challenge_2018](/Users/xanderbilt/Documents/WashU_Bootcamp/week_two/Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2018](https://github.com/xanderbilt23/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 (run time for refactored code for 2018)
 
